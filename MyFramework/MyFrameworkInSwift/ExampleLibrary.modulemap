@@ -1,0 +1,5 @@
+module ExampleLibrary {
+    header "ExampleLibrary.h"
+    link "ExampleLibrary"
+    export *
+}
